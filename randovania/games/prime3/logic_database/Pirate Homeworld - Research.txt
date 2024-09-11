@@ -276,15 +276,9 @@ Extra - asset_id: 16389095850931092901
   * Extra - dock_index: 0
   > Pickup (Missile Expansion)
       After Metroid Processing Disable Barrier
-  > Top Floor
-      All of the following:
-          Morph Ball
-          Any of the following:
-              After Metroid Processing Ball Lift
-              Boost Ball and Spider Ball
-              Space Jump Boots and Bomb/Spring Space Jump (Beginner)
-  > Basement
-      X-Ray Visor
+  > Room Center
+      # Take cover to trick pirates into lowering their shield
+      Grapple Lasso or Combat (Beginner) or Enter Hypermode
 
 > Door to Airshaft; Heals? False
   * Layers: default
@@ -320,6 +314,8 @@ Extra - asset_id: 16389095850931092901
       Trivial
   > Door to Creche Transit
       Trivial
+  > Room Center
+      Trivial
 
 > Basement; Heals? False
   * Layers: default
@@ -341,6 +337,21 @@ Extra - asset_id: 16389095850931092901
   * Event Metroid Processing Ball Lift
   > Basement
       Trivial
+
+> Room Center; Heals? False
+  * Layers: default
+  > Door to Processing Access
+      # Take cover to trick pirates into lowering their shield
+      Grapple Lasso or Combat (Beginner) or Enter Hypermode
+  > Top Floor
+      All of the following:
+          Morph Ball
+          Any of the following:
+              After Metroid Processing Ball Lift
+              Boost Ball and Spider Ball
+              Space Jump Boots and Bomb/Spring Space Jump (Beginner)
+  > Basement
+      X-Ray Visor
 
 ----------------
 Airshaft
@@ -380,6 +391,7 @@ Extra - asset_id: 11685491285383767107
               All of the following:
                   Missile ≥ 3 and Nova Beam
                   X-Ray Visor or Invisible Objects (Beginner)
+              # Use charged Hyper Beam on top edge of the phazite panels https://youtu.be/ZMKuYrkUtdU
               Charge Beam and Knowledge (Intermediate) and Enter Hypermode
 
 > Door to Metroid Processing; Heals? False
@@ -463,7 +475,10 @@ Extra - asset_id: 11846340785047609812
   * Plasma Door to Processing Access/Door to Scrapvault
   * Extra - dock_index: 1
   > Room Center
-      After Scrapvault Wall
+      Any of the following:
+          After Scrapvault Wall
+          # Activate the alarm in Processing Access https://youtu.be/N-fljjiTP8M
+          Knowledge (Intermediate) and Disabled Entrance Randomizer
 
 > Morph Ball Door to Scrapworks (Entrance); Heals? False
   * Layers: default
@@ -512,6 +527,7 @@ Extra - asset_id: 11846340785047609812
   > Pickup (Missile Expansion)
       Any of the following:
           Use Screw Attack (Space Jump)
+          # Lock Onto a crate below https://youtu.be/L9bAr3rKjb4
           Space Jump Boots and Movement (Intermediate)
 
 > Event - Open Gate; Heals? False

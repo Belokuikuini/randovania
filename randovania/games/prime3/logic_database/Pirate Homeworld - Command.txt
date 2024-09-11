@@ -112,6 +112,7 @@ Extra - asset_id: 18221971457754325372
           Use Grapple Voltage
           Any of the following:
               Hazard Shield
+              # Stick to the forcefield https://youtu.be/Tx677H6ejkk
               Hazards without Hazard Shield (Intermediate) and Damage ≥ 50
   > Upper Level
       All of the following:
@@ -496,6 +497,7 @@ Extra - asset_id: 5194668821114474017
       All of the following:
           Morph Ball and Spider Ball
           Any of the following:
+              # https://youtu.be/dTjugyNb3B4
               Space Jump Boots and Bomb/Spring Space Jump (Intermediate) and Instant Morph (Intermediate)
               Bomb/Spring Space Jump (Advanced) and Instant Morph (Advanced)
   > Lower Level
@@ -524,6 +526,7 @@ Extra - asset_id: 5194668821114474017
           Any of the following:
               All of the following:
                   Space Jump Boots
+                  # https://youtu.be/RrdkGBVOJFU
                   Bomb/Spring Space Jump (Beginner) or Slope Jump (Beginner)
               Morph Ball Bomb and Bomb/Spring Space Jump (Advanced)
   > Morph Ball Door to Command Station
