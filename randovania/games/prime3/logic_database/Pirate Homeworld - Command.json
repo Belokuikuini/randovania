@@ -498,7 +498,7 @@
                                     {
                                         "type": "and",
                                         "data": {
-                                            "comment": null,
+                                            "comment": "Slowly sweep the arc https://youtu.be/UULy3ofI8r8",
                                             "items": [
                                                 {
                                                     "type": "template",
@@ -739,7 +739,7 @@
                                     {
                                         "type": "or",
                                         "data": {
-                                            "comment": null,
+                                            "comment": "Use the wall opposite of the ledge https://youtu.be/M5YmYtIQbKY",
                                             "items": [
                                                 {
                                                     "type": "resource",
@@ -2861,7 +2861,7 @@
                                                 {
                                                     "type": "and",
                                                     "data": {
-                                                        "comment": "https://youtu.be/dTjugyNb3B4",
+                                                        "comment": "Have upwards momentum when morphing https://youtu.be/dTjugyNb3B4",
                                                         "items": [
                                                             {
                                                                 "type": "resource",
@@ -3107,7 +3107,7 @@
                                                             {
                                                                 "type": "or",
                                                                 "data": {
-                                                                    "comment": "https://youtu.be/RrdkGBVOJFU",
+                                                                    "comment": "Use the bevel below the hole https://youtu.be/RrdkGBVOJFU",
                                                                     "items": [
                                                                         {
                                                                             "type": "resource",

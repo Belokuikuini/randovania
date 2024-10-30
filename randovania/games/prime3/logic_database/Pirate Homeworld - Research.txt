@@ -527,8 +527,14 @@ Extra - asset_id: 11846340785047609812
   > Pickup (Missile Expansion)
       Any of the following:
           Use Screw Attack (Space Jump)
-          # Lock Onto a crate below https://youtu.be/L9bAr3rKjb4
-          Space Jump Boots and Movement (Intermediate)
+          All of the following:
+              # Lock Onto a crate/foe below https://youtu.be/L9bAr3rKjb4
+              Space Jump Boots and Slope Jump (Beginner)
+              Any of the following:
+                  Movement (Intermediate)
+                  Scan Visor and Movement (Beginner)
+          # Unmorph on the green ledge https://youtu.be/xYMpdAecX4M
+          Morph Ball and Movement (Intermediate)
 
 > Event - Open Gate; Heals? False
   * Layers: default

@@ -199,10 +199,15 @@ Extra - asset_id: 17076000080045116679
   > Door to Drill Shaft 1
       Any of the following:
           All of the following:
-              Space Jump Boots and After Phazon Harvesting Walkway Destroyed
+              Space Jump Boots
               Any of the following:
-                  Hazard Shield
-                  Hazards without Hazard Shield (Beginner) and Damage ≥ 250
+                  All of the following:
+                      After Phazon Harvesting Walkway Destroyed
+                      Any of the following:
+                          Hazard Shield
+                          Hazards without Hazard Shield (Beginner) and Damage ≥ 250
+                  # Use corners for cover https://youtu.be/CMqAf0xpLU4
+                  Boost Ball and Before Phazon Harvesting Walkway Destroyed and Movement (Intermediate) and Hazards without Hazard Shield (Intermediate) and Damage ≥ 99 and Use Screw Attack (Space Jump)
           All of the following:
               Before Phazon Harvesting Walkway Destroyed and Movement (Advanced) and Simple Bomb Jump/Spring Space Jump
               Any of the following:

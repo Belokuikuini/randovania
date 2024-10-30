@@ -79,6 +79,7 @@ Extra - asset_id: 1808913861159744919
   > Pickup (X-Ray Visor)
       Any of the following:
           Missile ≥ 5 and Seeker Missile
+          # Slowly sweep the arc https://youtu.be/UULy3ofI8r8
           Charge Beam and Knowledge (Beginner) and Enter Hypermode
   > Event - Tunnel Open
       X-Ray Visor
@@ -117,6 +118,7 @@ Extra - asset_id: 18221971457754325372
   > Upper Level
       All of the following:
           Morph Ball
+          # Use the wall opposite of the ledge https://youtu.be/M5YmYtIQbKY
           Space Jump Boots or Bomb/Spring Space Jump (Beginner)
 
 > Morph Ball Door to Flux Control; Heals? False
@@ -497,7 +499,7 @@ Extra - asset_id: 5194668821114474017
       All of the following:
           Morph Ball and Spider Ball
           Any of the following:
-              # https://youtu.be/dTjugyNb3B4
+              # Have upwards momentum when morphing https://youtu.be/dTjugyNb3B4
               Space Jump Boots and Bomb/Spring Space Jump (Intermediate) and Instant Morph (Intermediate)
               Bomb/Spring Space Jump (Advanced) and Instant Morph (Advanced)
   > Lower Level
@@ -526,7 +528,7 @@ Extra - asset_id: 5194668821114474017
           Any of the following:
               All of the following:
                   Space Jump Boots
-                  # https://youtu.be/RrdkGBVOJFU
+                  # Use the bevel below the hole https://youtu.be/RrdkGBVOJFU
                   Bomb/Spring Space Jump (Beginner) or Slope Jump (Beginner)
               Morph Ball Bomb and Bomb/Spring Space Jump (Advanced)
   > Morph Ball Door to Command Station
