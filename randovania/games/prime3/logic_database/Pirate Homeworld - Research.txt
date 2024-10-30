@@ -349,7 +349,13 @@ Extra - asset_id: 16389095850931092901
           Any of the following:
               After Metroid Processing Ball Lift
               Boost Ball and Spider Ball
-              Space Jump Boots and Bomb/Spring Space Jump (Beginner)
+              All of the following:
+                  Space Jump Boots
+                  Any of the following:
+                      # Use the ledge by the Ice Missile door https://youtu.be/fRKzqbw5eVc
+                      Bomb/Spring Space Jump (Beginner)
+                      # Use the window sill indent near the eggs https://youtu.be/UTcWQuwCk5U
+                      Standable Terrain (Beginner) and Use Screw Attack (Space Jump)
   > Basement
       X-Ray Visor
 
