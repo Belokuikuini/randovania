@@ -66,6 +66,7 @@ Leads to Command Center/Door to Phazon Quarry
               All of the following:
                   After Phazon Quarry Drill Wall
                   Any of the following:
+                      # Hold left while Screw Attacking https://youtu.be/c6q1fict_3o
                       Movement (Beginner) and Use Screw Attack (Space Jump)
                       Screw Attack and Screw Attack at Z-Axis (Intermediate) and Simple Bomb Jump/Spring Space Jump
   > Door to Drill Shaft 2
