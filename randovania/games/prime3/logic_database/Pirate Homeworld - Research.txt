@@ -650,7 +650,7 @@ Extra - asset_id: 15178552083233342671
   > Pickup (Ship Missile Expansion)
       All of the following:
           Boost Ball
-          # Spiderless: https://youtu.be/Tizj6uvGeXM
+          # Bounce off the left ceiling https://youtu.be/61kWOI-XC6Y
           Spider Ball or Movement (Intermediate)
   > Event - Exit Hatch
       Boost Ball
