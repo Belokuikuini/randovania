@@ -530,6 +530,7 @@ Extra - asset_id: 5194668821114474017
                   Space Jump Boots
                   # Use the bevel below the hole https://youtu.be/RrdkGBVOJFU
                   Bomb/Spring Space Jump (Beginner) or Slope Jump (Beginner)
+              # Use the ceiling to unmorph out of double bomb jump https://youtu.be/DK7-n5ELJ74
               Morph Ball Bomb and Bomb/Spring Space Jump (Advanced)
   > Morph Ball Door to Command Station
       Morph Ball and After Flux Control Tunnel Cover
