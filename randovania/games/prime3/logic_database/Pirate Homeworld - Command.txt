@@ -501,6 +501,7 @@ Extra - asset_id: 5194668821114474017
           Any of the following:
               # Have upwards momentum when morphing https://youtu.be/dTjugyNb3B4
               Space Jump Boots and Bomb/Spring Space Jump (Intermediate) and Instant Morph (Intermediate)
+              # Strictly unmorph at the very top of the jump https://youtu.be/g2fqhfU3wI8
               Bomb/Spring Space Jump (Advanced) and Instant Morph (Advanced)
   > Lower Level
       Morph Ball
