@@ -757,7 +757,13 @@ Extra - asset_id: 8444926274755356434
   > Door to Transit Station 1104
       All of the following:
           After Skyway Access Wall
-          Hazards without Hazard Shield (Intermediate) or Hazard Shield
+          Any of the following:
+              Hazard Shield
+              # Screw Attack through the rain
+              Knowledge (Beginner) and Use Screw Attack (Space Jump)
+              # Stick to the walls
+              Hazards without Hazard Shield (Intermediate) and Damage ≥ 4
+              Hazards without Hazard Shield (Beginner) and Damage ≥ 66
   > Event - Open Wall
       After Command Station Disable Defense
   > Event - Open Tunnel
@@ -784,7 +790,13 @@ Extra - asset_id: 8444926274755356434
   > Door to Courtyard Passage
       All of the following:
           After Skyway Access Wall
-          Hazards without Hazard Shield (Intermediate) or Hazard Shield
+          Any of the following:
+              Hazards without Hazard Shield (Intermediate) or Hazard Shield
+              # Screw Attack through the rain
+              Knowledge (Beginner) and Use Screw Attack (Space Jump)
+              # Stick to the walls
+              Hazards without Hazard Shield (Intermediate) and Damage ≥ 4
+              Hazards without Hazard Shield (Beginner) and Damage ≥ 66
 
 > Event - Open Wall; Heals? False
   * Layers: default
